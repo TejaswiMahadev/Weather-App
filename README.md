@@ -2,7 +2,8 @@
 
 A comprehensive weather application built with Next.js that provides real-time weather data and historical weather management with full CRUD operations.
 
-![Weather App Screenshot](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Weather+App+Screenshot)
+![Weather App Screenshot]![image](https://github.com/user-attachments/assets/4f617b8b-604c-401d-a91e-fb2ee433412b)
+
 
 ## ✨ Features
 
